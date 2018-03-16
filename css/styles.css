@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: serif;
+}
+.important {
+  color: blue;
+  font-style: italic;
+}
+.unimportant {
+  color: black;
+}
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
